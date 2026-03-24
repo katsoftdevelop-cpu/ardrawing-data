@@ -1,0 +1,13 @@
+{
+  "status": 1,
+  "message": "success",
+  "data": {
+    "posts": [
+      {"file_name": "https://raw.githubusercontent.com/katsoftdevelop-cpu/ardrawing-data/main/images/number/slika1.jpg"},
+      {"file_name": "https://raw.githubusercontent.com/katsoftdevelop-cpu/ardrawing-data/main/images/number/slika2.jpg"},
+      {"file_name": "https://raw.githubusercontent.com/katsoftdevelop-cpu/ardrawing-data/main/images/number/slika3.jpg"},
+      {"file_name": "https://raw.githubusercontent.com/katsoftdevelop-cpu/ardrawing-data/main/images/number/slika4.jpg"},
+      {"file_name": "https://raw.githubusercontent.com/katsoftdevelop-cpu/ardrawing-data/main/images/number/slika5.jpg"}
+    ]
+  }
+}
